@@ -1,0 +1,34 @@
+class AppImages {
+  String beefBurGar = 'assets/images/beefburger.png';
+  String beefShaWarMa = 'assets/images/BeefShawarma.png';
+  String cheesyChicKen = 'assets/images/CheesyChicken.png';
+  String chicKenBurger = 'assets/images/ChickenBurger.png';
+  String chicKenBurger2 = 'assets/images/ChicKenBurger2.png';
+  String chicKenNugGets = 'assets/images/ChicKenNuggets.png';
+  String chicKenPasta = 'assets/images/chickenpasta.png';
+  String crispyChicKe = 'assets/images/crispychicke.png';
+  String curryLeaf = 'assets/images/CurryLeaf.png';
+  String elliPes1 = 'assets/images/Ellipse1.png';
+  String elliPes2 = 'assets/images/Ellipse2.png';
+  String elliPes3 = 'assets/images/Ellipse3.png';
+  String fastFoods = 'assets/images/FastFoods.png';
+  String friedChicken = 'assets/images/Friedchicken.png';
+  String grazeKitchen = 'assets/images/GrazeKitchen.png';
+  String italianPadsTa = 'assets/images/italianpasta.png';
+  String londonGrill = 'assets/images/LondonGrill.png';
+  String mainDishes = 'assets/images/MainDishes.png';
+  String picture = 'assets/images/picture.png';
+  String coolDrinks = 'assets/images/CoolDrinks.png';
+  String salads = 'assets/images/Salads.png';
+  String steakFriTes = 'assets/images/Steakfrites.png';
+  String google = 'assets/images/google.png';
+  String faceBook = 'assets/images/facebook.png';
+  String heart = 'assets/images/heart.png';
+  String message = 'assets/images/message.png';
+  String account = 'assets/images/account.png';
+  String shop = 'assets/images/shop.png';
+  String restaurant = 'assets/images/restaurant.png';
+  String coFee = 'assets/images/coffee.png';
+  String juice = 'assets/images/juice.png';
+  String backGround_picture = 'assets/images/background_picture.png';
+}
